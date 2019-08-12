@@ -8,8 +8,13 @@
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=11Z7C4pZofy8x8XIXdGq5rym34vl6tTBZ" width="640" height="480"></iframe>
 
+
+
+
 Scatterplot Screenshot:
 ![](images/Scatterplot.png)
+
+
 
 
 <h4>NEW research has shown that the more expensive a place is to rent, the higher the rates of third level progression were in 2016. 
@@ -28,12 +33,24 @@ This area has a rental price of €1,437 but an average progression to third lev
 When assessed the data has a correlation of 0.59, with the highest being 1 and the lowest being -1, this definitely shows that there is a strong correlation between higher rental prices and academic success in the Dublin region.
 
 
+
+
+
 FeePaying Barchart Screenshot:
 ![](images/feepaying.png)
 
 
+
+
+
+
 DEIS School Barchart Screenshot:
 ![](images/DEIS.png)
+
+
+
+
+
 
 The data also shows that those attending Fee paying schools in Dublin in 2016 had nearly double the chance of progressing to third level, with an astounding 98 percent of those in Fee Paying schools accessing third level as opposed to just 58 percent of those in non fee paying schools.
 
@@ -48,7 +65,14 @@ One other interesting point to note is that those in mixed schools underperforme
 This new research was accumulated by using The Daft final report of 2016 and comparing it with  The Irish Times Third level progression list and data.gov’s data on all schools to find relevant information and addresses combined.
 
 
+
+
+
 [Link to Tableau Data](https://public.tableau.com/views/TLPRate/Scatterplot?:embed=y&:display_count=yes&:origin=viz_share_link)
+
+
+
+
 
 Gendered Schools Barchart Screenshot:
 ![](images/gender.png)
